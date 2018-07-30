@@ -1,8 +1,8 @@
-title: Materialize Jekyll
-description: Materialize Theme for Jekyll, Github Pages
-url: http://astro36.me/Materialize-Jekyll/
+title: Orrich.io Apps
+description: orrich.io apps and more.
+url: htt://orrich.io/Materialize-Jekyll/
 keywords: ["Programming", "Blog"]
-timezone: Asia/Seoul
+timezone: US/EST
 permalink: pretty
 
 about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porta, odio vitae sodales malesuada, nibh diam convallis lectus, non scelerisque arcu lectus non nisi. Etiam tincidunt libero eget urna tristique faucibus. Pellentesque varius mi at placerat lobortis. Donec nec aliquam augue. Cras in gravida urna. Nulla dignissim semper accumsan. Nullam mattis felis metus, nec accumsan lorem porta et. Ut dictum dapibus est. In eu ultricies lorem. Duis semper elementum arcu, in rutrum tellus ornare eu."
@@ -11,12 +11,12 @@ author:
   codepen: 
   disqus: 
   dribbble: 
-  email: astr36@naver.com
+  email: 
   facebook: 
   flickr: 
   foursquare: 
-  github: Astro36 # required
-  google_analytics: UA-77377358-3
+  github: orrichio # required
+  google_analytics: 
   google_plus: 
   instagram: 
   lastfm: 
@@ -26,7 +26,7 @@ author:
   soundcloud: 
   stackoverflow: 
   steam: 
-  telegram: psj1026
+  telegram: 
   tumblr: 
   twitter: 
   weibo: 
