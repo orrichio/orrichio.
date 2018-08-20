@@ -44,6 +44,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+include: ['_pages']
 feed:
   path: atom.xml
 
